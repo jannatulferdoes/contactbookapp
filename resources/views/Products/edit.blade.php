@@ -25,6 +25,7 @@
          </div>
      @endif
 
+     {{-- code updated by ushi --}}
      <div class="container">
          <div class="row justify-center-center">
              <div class="col-sm-8">
